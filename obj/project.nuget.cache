@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v4j5MTkf2+xdo+6WvuB29lvUMngyZLTpTNNpR12qJ4ZrPhpGcdGb6BdRJo8thM/UMSKb3vbcSs7extl/z1maAA==",
+  "dgSpecHash": "waWIvPFr+DsPquEpkRZhECtz73BtIvhRyAdk9EyXm3g4/DT6I3iJ8OKL0TcoPHftLcQhMpMRa3dUYHKaY66icA==",
   "success": true,
-  "projectFilePath": "C:\\Development\\afassb-salesjournalentry-dotnet\\AFAS_Integration.csproj",
+  "projectFilePath": "C:\\Development\\AFAS SB Scaffold dotnet2\\AFAS_Integration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cln\\.nuget\\packages\\system.net.http.json\\8.0.0\\system.net.http.json.8.0.0.nupkg.sha512",
     "C:\\Users\\cln\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",

@@ -1,6 +1,6 @@
 # AFAS SB Integration Example
 
-This project demonstrates how to integrate with AFAS SB using their APIs. 
+This project demonstrates how to integrate with AFAS SB using their APIs.
 AFAS SB is a powerful software suite for businesses that includes functionalities such as financial administration.
 
 ## Overview
@@ -15,9 +15,9 @@ The project consists of two main classes: `AfasAuthClient` and `AfasApiClient`. 
 
 ## Prerequisites
 
-Before you can run this project, you need to provide your AFAS instance details and credentials including client URL, client ID, client secret, and a redirect URI.
+Before you can run this project, you need to provide your AFAS instance details and credentials including client URL, client ID, client secret, and a redirect URI. Please contact your AFAS contact to get these details or use https://partner.afas.nl/aanmelden to get in touch.
 
-You can find these details in the AFAS environment under the "App Center".
+Please read the [API Documentation](https://docs.afas.help/sb/nl/start)
 
 ## Getting Started
 

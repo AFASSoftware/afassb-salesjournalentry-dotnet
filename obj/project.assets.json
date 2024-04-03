@@ -215,11 +215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\afassb-salesjournalentry-dotnet\\AFAS_Integration.csproj",
+      "projectUniqueName": "C:\\Development\\AFAS SB Scaffold dotnet2\\AFAS_Integration.csproj",
       "projectName": "AFAS_Integration",
-      "projectPath": "C:\\Development\\afassb-salesjournalentry-dotnet\\AFAS_Integration.csproj",
+      "projectPath": "C:\\Development\\AFAS SB Scaffold dotnet2\\AFAS_Integration.csproj",
       "packagesPath": "C:\\Users\\cln\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\afassb-salesjournalentry-dotnet\\obj\\",
+      "outputPath": "C:\\Development\\AFAS SB Scaffold dotnet2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cln\\AppData\\Roaming\\NuGet\\NuGet.Config",
